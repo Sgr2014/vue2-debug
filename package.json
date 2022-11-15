@@ -1,0 +1,20 @@
+{
+  "name": "vue2-debugger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sgr2014/vue2-debugger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sgr2014/vue2-debugger/issues"
+  },
+  "homepage": "https://github.com/Sgr2014/vue2-debugger#readme"
+}
